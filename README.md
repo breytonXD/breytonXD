@@ -8,20 +8,12 @@
 **Web Dev:** HTML, CSS, JavaScript  
 **Hardware:** Raspberry Pi, Arduino  
 **Tools:** MySQL, GitHub, Linux  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,raspberrypi,arduino,mysql,github,linux" />
-  </a>
-</p>
-
-## ⌨️ Software
 **Workflow:** VSCodium, Obsidian  
 **Creative:** Blender, Photoshop, InDesign, After Effects, Pure Data, TouchDesigner 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,obsidian,blender,ps,ae" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,raspberrypi,arduino,mysql,github,linux,vscodium,obsidian,blender,ps,ae" />
   </a>
 </p>
 
